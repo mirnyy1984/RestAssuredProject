@@ -1,31 +1,18 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "age": 35,
+      "id": 1
     },
     {
-      "id": 2,
-      "body": "some comment2",
-      "postId": 1
+      "name": "Vitos",
+      "age": 36,
+      "id": 2
     },
     {
-      "id": 2,
-      "body": "some comment2",
-      "postId": 1,
-      "pppp": 1,
-      "puu": 33333
+      "id": 3,
+      "name": "Vitos",
+      "age": 36
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
